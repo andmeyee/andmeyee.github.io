@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projekte on Andre Meyer - Electronic Engineer</title>
+    <link>https://andmeyer.ch/de/projects/</link>
+    <description>Recent content in Projekte on Andre Meyer - Electronic Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://andmeyer.ch/de/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaino</title>
+      <link>https://andmeyer.ch/de/projects/adaino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/de/projects/adaino/</guid>
+      <description>&lt;p&gt;Adaino ist eine Analoge Daten Akquisitions-Bibliothek für Arduino. Sie vereinfacht das Lesen von Analogen Inputs für beliebige Abtastraten und stellt deren zuverlässige Akquisition sicher.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intelligente Industriekamera</title>
+      <link>https://andmeyer.ch/de/projects/smartcam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/de/projects/smartcam/</guid>
+      <description>&lt;p&gt;Intelligente Kameras nehmen nicht nur Bilder auf, sondern können diese auch selber verarbeiten und so wichtige Bildinformationen direkt erkennen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Röntgensensor</title>
+      <link>https://andmeyer.ch/de/projects/xray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/de/projects/xray/</guid>
+      <description>&lt;p&gt;Mithilfe von Röntgensensoren können Bilder vom Innern eines Menschen oder Gegenstandes aufgenommen werden, ohne ihn zu öffnen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Audio Prozessor</title>
+      <link>https://andmeyer.ch/de/projects/speakerproc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/de/projects/speakerproc/</guid>
+      <description>&lt;p&gt;Der Prozessor für digitale Lautsprecher ist ein vielseitig einsetzbares System-on-Chip Design, das für die digitale Audioverarbeitung in modernen Technik-Gadgets optimiert ist.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

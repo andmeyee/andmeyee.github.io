@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html><head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="description" content=""><meta name="author" content="Andre Meyer">
+
+    
+    
+    <title>Röntgensensor - Andre Meyer - Electronic Engineer</title><meta name="generator" content="Hugo 0.54.0" />
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    
+    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+    
+    
+    
+    <link rel="stylesheet" href="/sass/main.min.2d51bb8e892a68cf41e5815db9575f823c4af824faab25756b95528d1e69e7af.css">
+    
+    
+    
+    <link rel="canonical" href="">
+    <link rel="alternate" type="application/rss+xml" title="" href="">
+
+    
+    
+    <link rel="alternate" hreflang="en" href="/projects/xray/" title="English">
+    
+    
+
+    
+    
+
+    
+  
+  </head>
+  <body>
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
+    <div class="container">
+        
+        <span class="navbar-brand font-weight-normal">
+            <a href="https://andmeyer.ch/de/">AME</a>
+        </span> 
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="icon fa fa-bars" aria-hidden="true"></i>
+        </button>  
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav mr-auto font-weight-light">
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/de/#projekte">Projekte</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/de/#about">About</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/de/#kompetenzen">Kompetenzen</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/de/#kontakt">Kontakt</a>
+                </li>
+                
+            </ul>
+            
+            <ul class="navbar-nav navbar-right font-weight-light">
+    <li class="divider d-lg-none"></li>
+    <li class="nav-item dropdown">
+        <a class="nav-link droppdown-toggle" href="#" id="navbarDropdownLang" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fa fa-globe" aria-hidden="true"></i> de
+        </a>
+        <div class="dropdown-menu font-weight-light" aria-labelledby="navbarDropdownLang">
+            
+            <a class="dropdown-item" href="https://andmeyer.ch/projects/xray/">English</a>
+            
+            <a class="dropdown-item" href="https://andmeyer.ch/de/projects/xray/">Deutsch</a>
+            
+        </div>
+    </li>
+    <li class="divider d-lg-none"></li>
+</ul>
+
+
+
+    
+            
+        </div>
+        
+    </div>
+</nav>
+
+<header class="masthead">
+    <div class="container text-center">
+        <h1 class="font-weight-light">Röntgensensor</h1>
+        <h2 class="font-weight-light"></h2>
+    </div>
+</header>
+
+        <main>
+<div class="container">
+    
+    
+    <p class="lead">Mithilfe von Röntgensensoren können Bilder vom Innern eines Menschen oder Gegenstandes aufgenommen werden, ohne ihn zu öffnen.</p>
+    <div class="content"><p>Röntgensensoren für Megavolt-Strahlung werden beispielsweise in Strahlentherapie-Geräten für die Krebsbehandlung eingesetzt. Dabei wird die Strahlung zum einen für die Behandlung eingesetzt, damit der Tumor schrumpft, zum andern können aber mit derselben Strahlung auch Röntgenbilder aufgenommen werden. Anhand dieser Bilder kann der Patient richtig positioniert und sichergestellt werden, dass der Tumor und nicht gesundes Gewebe bestrahlt wird. Zudem kann mit den Bildern die Qualität der Behandlung überprüft werden.</p>
+
+<p>Die im Bilddetektor eintreffende Strahlung wird in einem ersten Schritt von einem <strong>Szintillator</strong> in optisches Licht umgewandelt. Dabei werden die Moleküle des Szintillators von den energiereichen Photonen angeregt und die Anregungsenergie in Form von Licht wieder abgegeben. Dieses abgegebene Licht wird dann von einem <strong>Bildsensor</strong> eingefangen und die in den Photodioden generierten Ladungen von einer <strong>hochpräzisen analogen Schaltung</strong> ausgelesen und in ein digitales Bild umgewandelt.</p>
+
+<p>Die Entwicklung eines Bilddetektors für Megavolt-Strahlung stellt verschiedenste <strong>Herausforderungen</strong> an das Design des Detektors. So besitzt Strahlung im Megavolt-Bereich, wie sie in der Strahlentherapie eingesetzt wird, eine viel höhere Energie als herkömmliche Röntgenstrahlung, wie sie in diagnostischen Geräten eingesetzt wird. Entsprechende Vorkehrungen sind nötig, um die hochenergetischen Teilchen im Sensor abzufangen und ein gutes Bild zu erzeugen.<br />
+Weiter erfordert die geometrische Anordnung von Strahlenquelle, Patient und Bilddetektor einen grossflächigen Bildsensor, dessen Diagonale 30 cm und mehr betragen kann. Das Auslesen von rauscharmen Bilder aus so grossen Sensoren stellt deshalb hohe Ansprüche an das analoge Schaltungsdesign, um Zeilenrauschen und andere Störquellen möglichst gering zu halten.
+Auch kann die ionisierende Strahlung der Quelle mit der Zeit elektronische Komponenten beschädigen. Um einen zuverlässigen und langlebigen Betrieb des Bilddetektors zu gewährleisten, müssen für das Design strahlenfeste Komponenten verwendet und die Architektur entsprechend ausgelegt werden.</p>
+
+<p>Um aussagekräftige Bilder zu erzeugen, müssen die Strahlenquelle und das Auslesen der Bilddaten synchronisiert werden. Diese Synchronisation kann je nach aufzunehmendem Organ oder Anwendungsfall unterschiedliche Anforderungen an Bildqualität, Auslesegeschwindigkeit (Bildrate) oder maximal verträgliche Dosis stellen. Um den Endbenutzer der Maschine vor solchen komplexen Einstellungen zu bewahren, werden im Normalfall verschiedene <strong>Aufnahmemodi</strong> definiert, welche der Benutzer je nach Anwendungsfall wählen kann.</p>
+
+<p>Für die Entwicklung und Verbesserung bestehender und neuer Bilddetektoren ist die <strong>Charakterisierung</strong> der Detektoren und ihrer Bildqualität essentiell und erfordert ein klar definiertes Vorgehen und stabile Auswertungsmethoden. Nur so kann sichergestellt werden, dass bei der Optimierung eines Parameters die übrigen Charaktereigenschaften nicht ungeahnt verschlechtert werden. Für die Überprüfung der Produktqualität und das Erfüllen der Produktspezifikationen können die entwickelten Methoden auch während der Produktionsphase eingesetzt werden.</p>
+</div>
+    
+</div>
+
+        </main><footer class="footer">
+    <div class="container-fluid border-top pt-4">
+        <div class="container text-center">
+            <div class="row justify-content-center">
+                <div class="col-lg-5">
+                    <a class="h5 font-weight-light" href="https://andmeyer.ch/de/">Andre Meyer</a>
+                    <p class="font-weight-light mt-4">Elektronik Ingineur für Eingebettete Geräte, Sensoren und Bildgebende Systeme.</p>
+                    <div class="mb-3 fa-1x"><ul class="list-inline mb-0">
+    
+    <li class="list-inline-item mr-1">
+        <a href="https://www.linkedin.com/in/andmeyer" target="_blank">
+        <i class="fa fa-linkedin fa-fw"></i>
+        </a>
+    </li>
+    
+    
+    <li class="list-inline-item mr-1">
+        <a href="https://twitter.com/andmeyee" target="_blank">
+        <i class="fa fa-twitter fa-fw"></i>
+        </a>
+    </li>
+    
+    
+    <li class="list-inline-item">
+        <a href="https://github.com/andmeyee" target="_blank">
+        <i class="fa fa-github fa-fw"></i>
+        </a>
+    </li>
+    
+</ul>
+</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-muted font-weight-light mb-4">&copy; 2019 Andre Meyer</p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</footer>
+  <script src="/vendor/jquery/jquery.min.js"></script>
+<script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/vendor/werktheme/js/scrollspy.js"></script>
+</body>
+</html>
