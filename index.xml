@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andre Meyer on Andre Meyer - Electronic Engineer</title>
+    <link>https://andmeyer.ch/</link>
+    <description>Recent content in Andre Meyer on Andre Meyer - Electronic Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://andmeyer.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaino</title>
+      <link>https://andmeyer.ch/projects/adaino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/projects/adaino/</guid>
+      <description>&lt;p&gt;I am a core developer of Adaino, an open source Analog Data Acquisition library for Arduino. It simplifies reading analog inputs at any sampling rate and cares about the proper acquisition thereof.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://andmeyer.ch/skills/electronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/electronics/</guid>
+      <description>&lt;p&gt;Reliable electronic components build the basis for innovative products.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://andmeyer.ch/skills/fpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/fpga/</guid>
+      <description>&lt;p&gt;In applications where energy efficiency, data throughput, or fast response times are important, FPGAs (Field Programmable Gate Arrays) play a key role.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sensors</title>
+      <link>https://andmeyer.ch/skills/sensors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/sensors/</guid>
+      <description>&lt;p&gt;Sensors enable digital devices to perceive their environment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://andmeyer.ch/skills/embedded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/embedded/</guid>
+      <description>&lt;p&gt;The optimal interaction of hardware and software enables the development of outstanding devices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Signal Processing</title>
+      <link>https://andmeyer.ch/skills/sigproc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/sigproc/</guid>
+      <description>&lt;p&gt;Reliable embedded devices require robust and high-performance signal processing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smart Machine Vision Camera</title>
+      <link>https://andmeyer.ch/projects/smartcam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/projects/smartcam/</guid>
+      <description>&lt;p&gt;Intelligent cameras not only record images, but also process them to recognize important image information themselves.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Communication Systems</title>
+      <link>https://andmeyer.ch/skills/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/communication/</guid>
+      <description>&lt;p&gt;Todays digital systems are connected to the Internet and regularly exchange data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>X-Ray Detector</title>
+      <link>https://andmeyer.ch/projects/xray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/projects/xray/</guid>
+      <description>&lt;p&gt;Using X-ray sensors, images can be taken from inside a person or object without opening it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://andmeyer.ch/skills/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/software/</guid>
+      <description>&lt;p&gt;Software skills help an electronic engineer solve his problems quicker.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Speaker Processor</title>
+      <link>https://andmeyer.ch/projects/speakerproc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/projects/speakerproc/</guid>
+      <description>&lt;p&gt;The digital speaker processor is a versatile system-on-chip design optimized for digital audio processing in modern technology gadgets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Radiation Physics</title>
+      <link>https://andmeyer.ch/skills/physics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/skills/physics/</guid>
+      <description>&lt;p&gt;In the development of X-ray detectors, the simulation of radiation physics provides crucial inputs for their improvement.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://andmeyer.ch/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/about/</guid>
+      <description>&lt;p&gt;As an electronic engineer applying the latest technologies and design methods, I love to develop new, groundbreaking and astonishing solutions satisfying both, technical and economical needs. The usability of the products stands beside their reliability and producibility in the first place.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Thanks for your message</title>
+      <link>https://andmeyer.ch/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andmeyer.ch/thanks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
